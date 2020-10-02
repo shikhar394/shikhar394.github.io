@@ -43,7 +43,7 @@ article::after {
 hr {border-bottom: 3px solid #0068FF;}
 img {width: 90%;}
 
-.meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
+.meta {text-transform: uppercase; font-family: 'Times New Roman', Times, serif, Courier New, Source Sans Pro, sans-serif; font-size: 14px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
