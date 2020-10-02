@@ -41,7 +41,7 @@ article::after {
   font-size: 44px;
 } */
 hr {border-bottom: 3px solid #0068FF;}
-img {width: 100%;}
+img {width: 90%;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
