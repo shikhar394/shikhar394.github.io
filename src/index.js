@@ -24,7 +24,7 @@ root.render(
         <Fade bottom cascade>
           <div className="heading-wrapper">
             <h3>
-              Building <a href="https://www.teamsinta.com/" target="_blank" rel="noopener noreferrer">SintaHR</a> and fighting financial fraud at <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Discord</a>.
+              Building AI-powered hiring solutions at <a href="https://www.teamsinta.com/" target="_blank" rel="noopener noreferrer">SintaHR</a> and fighting financial fraud at <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Discord</a>.
             </h3>
           </div>
         </Fade>
